@@ -1,0 +1,13 @@
+package me.niloybiswas.jasper_demo_2;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JasperDemo2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JasperDemo2Application.class, args);
+	}
+
+}
